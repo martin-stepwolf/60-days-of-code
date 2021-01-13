@@ -22,3 +22,5 @@ January 11th, 2021.
 ## References :books:
 
 - [#100daysofcode](https://github.com/kallaway/100-days-of-code)
+- [Regular expression course](https://platzi.com/clases/expresiones-regulares/) 
+- [Python basic course](https://platzi.com/clases/python/) 

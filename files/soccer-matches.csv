@@ -1,0 +1,51 @@
+date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
+1872-11-30,Scotland,England,0,0,Friendly,Glasgow,Scotland,FALSE
+1873-03-08,England,Scotland,4,2,Friendly,London,England,FALSE
+1874-03-07,Scotland,England,2,1,Friendly,Glasgow,Scotland,FALSE
+1875-03-06,England,Scotland,2,2,Friendly,London,England,FALSE
+1876-03-04,Scotland,England,3,0,Friendly,Glasgow,Scotland,FALSE
+1876-03-25,Scotland,Wales,4,0,Friendly,Glasgow,Scotland,FALSE
+1877-03-03,England,Scotland,1,3,Friendly,London,England,FALSE
+1877-03-05,Wales,Scotland,0,2,Friendly,Wrexham,Wales,FALSE
+1878-03-02,Scotland,England,7,2,Friendly,Glasgow,Scotland,FALSE
+1878-03-23,Scotland,Wales,9,0,Friendly,Glasgow,Scotland,FALSE
+1879-01-18,England,Wales,2,1,Friendly,London,England,FALSE
+1879-04-05,England,Scotland,5,4,Friendly,London,England,FALSE
+1879-04-07,Wales,Scotland,0,3,Friendly,Wrexham,Wales,FALSE
+1880-03-13,Scotland,England,5,4,Friendly,Glasgow,Scotland,FALSE
+1880-03-15,Wales,England,2,3,Friendly,Wrexham,Wales,FALSE
+1880-03-27,Scotland,Wales,5,1,Friendly,Glasgow,Scotland,FALSE
+1881-02-26,England,Wales,0,1,Friendly,Blackburn,England,FALSE
+1881-03-12,England,Scotland,1,6,Friendly,London,England,FALSE
+1881-03-14,Wales,Scotland,1,5,Friendly,Wrexham,Wales,FALSE
+1882-02-18,Northern Ireland,England,0,13,Friendly,Belfast,Ireland,FALSE
+1882-02-25,Wales,Northern Ireland,7,1,Friendly,Wrexham,Wales,FALSE
+1882-03-11,Scotland,England,5,1,Friendly,Glasgow,Scotland,FALSE
+1882-03-13,Wales,England,5,3,Friendly,Wrexham,Wales,FALSE
+1882-03-25,Scotland,Wales,5,0,Friendly,Glasgow,Scotland,FALSE
+1883-02-03,England,Wales,5,0,Friendly,London,England,FALSE
+1883-02-24,England,Northern Ireland,7,0,Friendly,Liverpool,England,FALSE
+1883-03-10,England,Scotland,2,3,Friendly,Sheffield,England,FALSE
+1883-03-12,Wales,Scotland,0,3,Friendly,Wrexham,Wales,FALSE
+1883-03-17,Northern Ireland,Wales,1,1,Friendly,Belfast,Ireland,FALSE
+1884-01-26,Northern Ireland,Scotland,0,5,British Championship,Belfast,Ireland,FALSE
+1884-02-09,Wales,Northern Ireland,6,0,British Championship,Wrexham,Wales,FALSE
+1884-02-23,Northern Ireland,England,1,8,British Championship,Belfast,Ireland,FALSE
+1884-03-15,Scotland,England,1,0,British Championship,Glasgow,Scotland,FALSE
+1884-03-17,Wales,England,0,4,British Championship,Wrexham,Wales,FALSE
+1884-03-29,Scotland,Wales,4,1,British Championship,Glasgow,Scotland,FALSE
+1885-02-28,England,Northern Ireland,4,0,British Championship,Manchester,England,FALSE
+1885-03-14,England,Wales,1,1,British Championship,Blackburn,England,FALSE
+1885-03-14,Scotland,Northern Ireland,8,2,British Championship,Glasgow,Scotland,FALSE
+1885-03-21,England,Scotland,1,1,British Championship,London,England,FALSE
+1885-03-23,Wales,Scotland,1,8,British Championship,Wrexham,Wales,FALSE
+1885-04-11,Northern Ireland,Wales,2,8,British Championship,Belfast,Ireland,FALSE
+1885-11-28,USA,Canada,0,1,Friendly,Newark,USA,FALSE
+1886-02-27,Wales,Northern Ireland,5,0,British Championship,Wrexham,Wales,FALSE
+1886-03-13,Northern Ireland,England,1,6,British Championship,Belfast,Ireland,FALSE
+1886-03-20,Northern Ireland,Scotland,2,7,British Championship,Belfast,Ireland,FALSE
+1886-03-27,Scotland,England,1,1,British Championship,Glasgow,Scotland,FALSE
+1886-03-29,Wales,England,1,3,British Championship,Wrexham,Wales,FALSE
+1886-04-10,Scotland,Wales,4,1,British Championship,Glasgow,Scotland,FALSE
+1886-11-25,USA,Canada,3,2,Friendly,Newark,USA,FALSE
+1887-02-05,England,Northern Ireland,7,0,British Championship,Sheffield,England,FALSE

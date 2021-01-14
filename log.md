@@ -21,3 +21,11 @@
 **Thoughts:** Even the regex are powerful, this is only a tool, more validations is done by the programming language (examples about Ipv4 and geographical coordinates in the programm).
 
 **File:** [1-regex-validations.py](1-regex-validations.py)
+
+### Day 4: January 14th, 2021
+
+**Today's Progress**: Create a program to search, validate and compare (with regular expression) data in a csv file.
+
+**Thoughts:** Data validation by saving data (defined by pharentesis and save it as $1, $2, $n) given by the same regular expression. In the program I could validate the format of the data and get the matches won by visitors (using the variables of the regex), in the past I would split the data in commas and saved in an array and use a lot a ifs and for loop).
+
+**File:** [1-regex-validations.py](1-regex-validations.py)

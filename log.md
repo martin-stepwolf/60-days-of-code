@@ -37,3 +37,11 @@
 **Thoughts:** Regex besides of validate the data, the saved data (defined by pharentesis and save it as $1, $2, $n) could be used to generate other type of file with the same information, in this case the data were converted to a sql file, but it could be in json, xml or any other format.
 
 **File:** [3-regex-conversion.php](2-regex-conversion.php)
+
+### Day 6: January 18th, 2021
+
+**Today's Progress**: Clean a school project to implement regular expresions.
+
+**Thoughts:** A better solution instead of split arrays, use a lot for and ifs. In any project the focus is to solve the problem, as student I have comitted many mistakes although the problem is solved is great to have better knowledge.
+
+**Repository:** [Basic Web Scraping](https://github.com/martin-stepwolf/basic-web-scraping)

@@ -45,3 +45,11 @@
 **Thoughts:** A better solution instead of split arrays, use a lot for and ifs. In any project the focus is to solve the problem, as student I have comitted many mistakes although the problem is solved is great to have better knowledge.
 
 **Repository:** [Basic Web Scraping](https://github.com/martin-stepwolf/basic-web-scraping)
+
+### Day 7: January 19th, 2021
+
+**Today's Progress**: Implement regex in data cleaning.
+
+**Thoughts:** A better solution in contrast to the past one. In that moment for everyone the better solution was the one that works without taking into account scalability and performance, normal things as beginners.
+
+**Repository:** [Basic Web Scraping](https://github.com/martin-stepwolf/basic-web-scraping)

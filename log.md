@@ -53,3 +53,11 @@
 **Thoughts:** A better solution in contrast to the past one. In that moment for everyone the better solution was the one that works without taking into account scalability and performance, normal things as beginners.
 
 **Repository:** [Basic Web Scraping](https://github.com/martin-stepwolf/basic-web-scraping)
+
+### Day 8: January 20th, 2021
+
+**Today's Progress**: Improve the last project and release the version 2.0.0.
+
+**Thoughts:** Last thing I did about regex, a really useful tool I would like to know well in that school project.
+
+**Repository:** [Basic Web Scraping version 2.0.0](https://github.com/martin-stepwolf/basic-web-scraping/releases/tag/2.0.0)

@@ -61,3 +61,11 @@
 **Thoughts:** Last thing I did about regex, a really useful tool I would like to know well in that school project.
 
 **Repository:** [Basic Web Scraping version 2.0.0](https://github.com/martin-stepwolf/basic-web-scraping/releases/tag/2.0.0)
+
+### Day 9: January 21th, 2021
+
+**Today's Progress**: Basic RSA generator (public and private key).
+
+**Thoughts:** Following the step I lerned at the university and review Java I created the program with good practices (functions, constant, commentaries, etc).
+
+**Repository:** [Rsa Algorithm Generator](rsa_algorithm/RsaAlgorithmGenerator.java)

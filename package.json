@@ -1,0 +1,20 @@
+{
+  "name": "javascript-challenges",
+  "version": "1.0.0",
+  "description": "part of the 60 days of code",
+  "main": "index.js",
+  "scripts": {
+    "4": "node 4.-asynchronism-callback.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martin-stepwolf/60-days-of-code.git"
+  },
+  "author": "martin-stepwolf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martin-stepwolf/60-days-of-code/issues"
+  },
+  "homepage": "https://github.com/martin-stepwolf/60-days-of-code#readme"
+}

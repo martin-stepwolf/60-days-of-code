@@ -6,6 +6,7 @@
   "scripts": {
     "callback": "node 4.-asynchronism-callback.js",
     "promises": "node 5.-asynchronism-promises.js",
+    "async-await": "node 6.-asynchronism-async-await.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

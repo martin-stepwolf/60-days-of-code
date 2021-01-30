@@ -8,7 +8,7 @@
 
 ### Day 2: January 12th, 2021
 
-**Today's Progress**: Learn the basic about regular expression (regex) and create a programm in python with validations to define what the user typed.
+**Today's Progress**: Learn the basic about regular expression (regex) and create a program in python with validations to define what the user typed.
 
 **Thoughts:** An powerful programming tool to search and/or validate data as text, email, url, name, phone number or any information with an specific pattern. Many pattern does not work as I want, so they were commented at the moment.
 
@@ -16,9 +16,9 @@
 
 ### Day 3: January 13th, 2021
 
-**Today's Progress**: Learn more about regular expression (regex) and, create more expressions and optimize the initial programm.
+**Today's Progress**: Learn more about regular expression (regex) and, create more expressions and optimize the initial program.
 
-**Thoughts:** Even the regex are powerful, this is only a tool, more validations is done by the programming language (examples about Ipv4 and geographical coordinates in the programm).
+**Thoughts:** Even the regex are powerful, this is only a tool, more validations is done by the programming language (examples about Ipv4 and geographical coordinates in the program).
 
 **File:** [1-regex-validations.py](1-regex-validations.py)
 
@@ -92,4 +92,13 @@
 
 **Thoughts:** The three way to handle asynchronism in Javascript, each one with its advantages and disadvantages. Async Await looks better and now I will code better.
 
-**Repository:** [Asynchronism Async Await](5.-asynchronism-async-await.js)
+**Repository:** [Asynchronism Async Await](6.-asynchronism-async-await.js)
+
+### Day 13: January 28th, 2021
+
+**Today's Progress**: Create a basic calculator with Go language.
+
+**Thoughts:** Interesting features in this language, for one reason many companies use it, its syntax and structure are simple. And I used my knowledge about regular expression, a powerful tool I dominated days ago.
+
+**Repository:** [Basic Calculator](7-basic-calculator.go)
+

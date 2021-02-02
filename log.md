@@ -102,3 +102,11 @@
 
 **Repository:** [Basic Calculator](7-basic-calculator.go)
 
+### Day 13: February 1st, 2021
+
+**Today's Progress**: Create a basic user list with Go language.
+
+**Thoughts:** Some new concepts I learned, like structs and how Go manages the variables with pointers.
+
+**Repository:** [User List](8-user-list.go)
+

@@ -102,11 +102,20 @@
 
 **Repository:** [Basic Calculator](7-basic-calculator.go)
 
-### Day 13: February 1st, 2021
+### Day 14: February 1st, 2021
 
 **Today's Progress**: Create a basic user list with Go language.
 
 **Thoughts:** Some new concepts I learned, like structs and how Go manages the variables with pointers.
 
 **Repository:** [User List](8-user-list.go)
+
+### Day 15: February 4th, 2021
+
+**Today's Progress**: Create a request to get data from a website with go.
+
+**Thoughts:** A new way to get data using some packages from go, here the interfaces are used a lot and it makes the interface implicitly.
+
+**Repository:** [Web Get](9-web-get.go)
+
 

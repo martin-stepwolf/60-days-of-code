@@ -118,4 +118,10 @@
 
 **Repository:** [Web Get](9-web-get.go)
 
+### Day 16: February 5th, 2021
 
+**Today's Progress**: Create a program to evaluate if a website works.
+
+**Thoughts:** I learn about Go routines and channels to run processes in the background and receive a response, a so useful tool for the performance, each function does not need to wait the other functions to run.
+
+**Repository:** [Go Routines and Channels](10-routines-channels.go)

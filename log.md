@@ -125,3 +125,11 @@
 **Thoughts:** I learn about Go routines and channels to run processes in the background and receive a response, a so useful tool for the performance, each function does not need to wait the other functions to run.
 
 **Repository:** [Go Routines and Channels](10-routines-channels.go)
+
+### Day 17: February 9th, 2021
+
+**Today's Progress**: Start with a project about a Google clone.
+
+**Thoughts:** A little practice before to learn more things about css and html. I make the main structure and the header.
+
+**Repository:** [Google clone](google-clone)

@@ -133,3 +133,11 @@
 **Thoughts:** A little practice before to learn more things about css and html. I make the main structure and the header.
 
 **Repository:** [Google clone](google-clone)
+
+### Day 18: February 10th, 2021
+
+**Today's Progress**: Finish the Google clone.
+
+**Thoughts:** A good practice about HTML semantic and CSS, also it works like google, it send the data to the real Google website.
+
+**Repository:** [Google clone](google-clone)

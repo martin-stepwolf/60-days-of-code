@@ -141,3 +141,11 @@
 **Thoughts:** A good practice about HTML semantic and CSS, also it works like google, it send the data to the real Google website.
 
 **Repository:** [Google clone](google-clone)
+
+### Day 19: February 11th, 2021
+
+**Today's Progress**: Start basic programs with bash shell.
+
+**Thoughts:** Learn main things about scripting and create two basic programs with the fundamentals, I have started with other useful tool to automate processes, in this case I am going to automate some processes about databases in PosgreSQL.
+
+**Repository:** [Bash Shell](bash-shell)

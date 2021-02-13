@@ -149,3 +149,11 @@
 **Thoughts:** Learn main things about scripting and create two basic programs with the fundamentals, I have started with other useful tool to automate processes, in this case I am going to automate some processes about databases in PosgreSQL.
 
 **Repository:** [Bash Shell](bash-shell)
+
+### Day 20: February 12th, 2021
+
+**Today's Progress**: Create a program in bash shell to ask some information about the user.
+
+**Thoughts:** Different ways to read a information by the user, also the regular expression could be used here, powerful tool I learned the first days of this challenge.
+
+**Repository:** [User Information](bash-shell/03-user-information)

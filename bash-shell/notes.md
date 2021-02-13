@@ -83,3 +83,8 @@ $1 - $9 use the nine first arguments
 ${10} - ${n} use 10 or more arguments
 $# Show how many arguments there are
 $* show all the arguments
+
+### Download files
+- wget: small files
+- curl: to communicate to a service like API RestFul
+- aria2: heavy files, it supports BitTorrent, FTP and parallel downloads.

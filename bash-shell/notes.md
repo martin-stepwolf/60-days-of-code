@@ -11,13 +11,13 @@ Kernel -> Shell -> Applications
 ### Vim configuration
 From the home whe create a file with some visual configurations for vim '/home$ vim .vimrc', vim is a text editor for the Command Line Interface, and we paste the next.
 
-'''
+```
 set showmode
 set autoindent
 set tabstop=4
 set expandtab
 syntax on
-'''
+```
 
 Finally we save and escape with :wq.
 
@@ -35,11 +35,10 @@ There are global and local variables.
 
 Global variables are storage in /etc/profile, we could add one with 'sudo vim /etc/profile' and type:
 
-'''
-
-'''
+```
 VARIABLE=value name
 export VARIABLE
+```
 
 ### Run a script
 
@@ -51,30 +50,32 @@ If we run with 'bash -v program.sh' we look the commands and result, with -x it 
 
 ### Operations
 
-- echo "Basic arithmetic operators"
-- echo "Numbers: a=$num_a and b=$num_b"
-- echo "Sum a + b = " $((num_a + num_b))
-- echo "Subtract a - b = " $((num_a - num_b))
-- echo "Multiply a * b = " $((num_a * num_b))
-- echo "Divide a / b = " $((num_a / num_b))
-- echo "Residue a % b = " $((num_a % num_b))
-- 
-- echo -e "\nBasic relational operators"
-- echo "Numbers: a=$num_a and b=$num_b"
-- echo "a > b = " $((num_a > num_b))
-- echo "a < b = " $((num_a < num_b))
-- echo "a >= b = " $((num_a >= num_b))
-- echo "a <= b = " $((num_a <= num_b))
-- echo "a == b = " $((num_a == num_b))
-- echo "a != b = " $((num_a != num_b))
-- 
-- echo -e "\nBasic asignation operators"
-- echo "Numbers: a=$num_a and b=$num_b"
-- echo "Sum a += b = " $((num_a += num_b))
-- echo "Subtract a -= b = " $((num_a -= num_b))
-- echo "Multiply a *= b = " $((num_a *= num_b))
-- echo "Divide a /= b = " $((num_a /= num_b))
-- echo "Residue a %= b = " $((num_a %= num_b))
+```
+echo "Basic arithmetic operators"
+echo "Numbers: a=$num_a and b=$num_b"
+echo "Sum a + b = " $((num_a + num_b))
+echo "Subtract a - b = " $((num_a - num_b))
+echo "Multiply a * b = " $((num_a * num_b))
+echo "Divide a / b = " $((num_a / num_b))
+echo "Residue a % b = " $((num_a % num_b))
+
+echo -e "\nBasic relational operators"
+echo "Numbers: a=$num_a and b=$num_b"
+echo "a > b = " $((num_a > num_b))
+echo "a < b = " $((num_a < num_b))
+echo "a >= b = " $((num_a >= num_b))
+echo "a <= b = " $((num_a <= num_b))
+echo "a == b = " $((num_a == num_b))
+echo "a != b = " $((num_a != num_b))
+
+echo -e "\nBasic asignation operators"
+echo "Numbers: a=$num_a and b=$num_b"
+echo "Sum a += b = " $((num_a += num_b))
+echo "Subtract a -= b = " $((num_a -= num_b))
+echo "Multiply a *= b = " $((num_a *= num_b))
+echo "Divide a /= b = " $((num_a /= num_b))
+echo "Residue a %= b = " $((num_a %= num_b))
+```
 
 ### Arguments
 
@@ -88,3 +89,64 @@ $* show all the arguments
 - wget: small files
 - curl: to communicate to a service like API RestFul
 - aria2: heavy files, it supports BitTorrent, FTP and parallel downloads.
+
+### Arrays
+
+```
+Array=(1 2 3 4 5 6)
+String=(dog, cat, fish)
+Rank=({A…Z} {10…20})
+
+#Print all the values
+echo "${Array[*]}"
+
+#Print the size
+echo "${#Array[*]}"
+
+#Print a position
+echo "${Array[1]}"
+
+#Delete a value
+unset Array[0]
+
+### for loop
+
+for element in ${Array[*]}
+for element in "Marco" "Pedro" "Luis" "Daniela"
+for element in * # this gets all the files
+for element in $(ls)
+
+do
+    echo "$element"
+done
+
+for ((i=1; i<10; i++))
+do
+    echo "Number;$i"
+done
+```
+
+### While loop
+
+```
+number=1
+while [ $number -ne 10 ]
+do
+    echo "$number"
+    number=$(( number + 1 ))
+done
+```
+
+### Extra
+
+#### Program to read all the files and its lines
+
+```
+for file in $(ls *.sh)
+do
+	echo "--------------- $file ---------------------"
+	while read -r line; do
+		echo "$line"
+	done < "$file"
+done
+```

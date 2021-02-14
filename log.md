@@ -156,4 +156,12 @@
 
 **Thoughts:** Different ways to read a information by the user, also the regular expression could be used here, powerful tool I learned the first days of this challenge.
 
-**Repository:** [User Information](bash-shell/03-user-information)
+**Repository:** [User Information](bash-shell/03-user-information.sh)
+
+### Day 21: February 13th, 2021
+
+**Today's Progress**: Create a program in bash shell to compare two numbers.
+
+**Thoughts:** I learned more about shell bash, structured programming where if, for, while and more can be used like the normal programming languages.
+
+**Repository:** [Numbers Comparison](bash-shell/04-number-comparison.sh)

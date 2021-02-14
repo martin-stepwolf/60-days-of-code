@@ -165,3 +165,12 @@
 **Thoughts:** I learned more about shell bash, structured programming where if, for, while and more can be used like the normal programming languages.
 
 **Repository:** [Numbers Comparison](bash-shell/04-number-comparison.sh)
+
+### Day 22: February 14th, 2021
+
+**Today's Progress**: Create a program in bash shell to manage backups.
+
+**Thoughts:** With all the basic knowledge about the CLI and bash shell I create a useful program to create and delete files stored as backups with a log to know about the action.
+
+**Repository:** [Backups](bash-shell/05-backups.sh)
+

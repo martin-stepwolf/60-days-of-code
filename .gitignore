@@ -7,3 +7,7 @@ files/soccer-matches.sql
 
 # JavaScript dependencies
 node_modules
+
+# Files generated from /bash-shell/05-backups.sh
+bash-shell/backups
+bash-shell/05-backups.log

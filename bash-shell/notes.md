@@ -150,3 +150,34 @@ do
 	done < "$file"
 done
 ```
+
+#### Program to create files or directories
+
+```
+if [[ $# -ne 2 ]]; then
+    echo "Number of parameters invalid"
+    exit 1
+fi
+
+if [[ $1 == "d" ]]; then
+    mkdir -m 755 $2
+    echo "Directory $2 created successfully"
+    ls -la $2
+elif [[ $1 == "f" ]]; then
+    touch $2
+    echo "File $2 created successfully"
+    ls -la $2
+else
+    echo "The option is invalid $1"
+fi
+```
+
+#### Program to read a file
+
+```
+#IFS (internal field separator) to avoid to cut blanks
+while IFS= read line
+do
+        echo "$line"
+done < $1
+```

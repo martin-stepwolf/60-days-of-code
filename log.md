@@ -174,3 +174,11 @@
 
 **Repository:** [Backups](bash-shell/05-backups.sh)
 
+### Day 23: February 15th, 2021
+
+**Today's Progress**: Implement packaging with tar, gzip and zip in the program to manage backups.
+
+**Thoughts:** Useful tool when the files to backup is heavy and many option to packaging with and without password.
+
+**Repository:** [Backups](bash-shell/05-backups.sh)
+

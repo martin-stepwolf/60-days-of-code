@@ -182,3 +182,10 @@
 
 **Repository:** [Backups](bash-shell/05-backups.sh)
 
+### Day 24: February 16th, 2021
+
+**Today's Progress**: Implement functions and better code in the program to manage backups.
+
+**Thoughts:** Now with functions and all the knowledge I improve the code in general to give more scalability and avoid hard coding and.
+
+**Repository:** [Backups](bash-shell/05-backups.sh)

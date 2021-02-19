@@ -189,3 +189,11 @@
 **Thoughts:** Now with functions and all the knowledge I improve the code in general to give more scalability and avoid hard coding and.
 
 **Repository:** [Backups](bash-shell/05-backups.sh)
+
+### Day 25: February 18th, 2021
+
+**Today's Progress**: Create the environment to learn testing with Jest and I created my first basic test.
+
+**Thoughts:** Unit Testing for Javascript code, so useful tool to test JavaScript functions.
+
+**Repository:** [Jest practices](jest-practices/)

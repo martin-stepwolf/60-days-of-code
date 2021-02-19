@@ -1,0 +1,24 @@
+{
+  "name": "jest-practices",
+  "version": "1.0.0",
+  "description": "extension of the main project 60daysofcode",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "jest",
+    "unit-testing",
+    "javascript"
+  ],
+  "author": "Martín Campos martin-stepwolf",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.12.17",
+    "@babel/preset-env": "^7.12.17",
+    "babel-jest": "^26.6.3",
+    "babel-polyfill": "^6.26.0",
+    "jest": "^26.6.3"
+  },
+  "dependencies": {}
+}

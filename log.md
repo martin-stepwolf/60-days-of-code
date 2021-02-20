@@ -197,3 +197,11 @@
 **Thoughts:** Unit Testing for Javascript code, so useful tool to test JavaScript functions.
 
 **Repository:** [Jest practices](jest-practices/)
+
+### Day 26: February 20th, 2021
+
+**Today's Progress**: Implement testing to my project basic web scraping.
+
+**Thoughts:** In the day 8 i implemented regex, now i implemented testing, evaluate the main functions that clean the code and text, and also I refactored the code, split filters from functions.
+
+**Repository:** [Basic Web Scraping branch testing-jest](https://github.com/martin-stepwolf/basic-web-scraping/tree/refactor/testing-jest)

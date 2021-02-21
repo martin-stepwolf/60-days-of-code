@@ -4,7 +4,9 @@
   "description": "extension of the main project 60daysofcode",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:coverage": "jest --coverage",
+    "test:watch": "jest --watch"
   },
   "keywords": [
     "jest",

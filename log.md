@@ -205,3 +205,11 @@
 **Thoughts:** In the day 8 i implemented regex, now i implemented testing, evaluate the main functions that clean the code and text, and also I refactored the code, split filters from functions.
 
 **Repository:** [Basic Web Scraping branch testing-jest](https://github.com/martin-stepwolf/basic-web-scraping/tree/refactor/testing-jest)
+
+### Day 27: February 21th, 2021
+
+**Today's Progress**: Implement testing coverage to my project basic web scraping.
+
+**Thoughts:** With coverage I can watch which functions are tested and which one not, and I implemented testing in all filters and some functions.
+
+**Repository:** [Basic Web Scraping branch testing-jest](https://github.com/martin-stepwolf/basic-web-scraping/tree/refactor/testing-jest)

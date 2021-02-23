@@ -213,3 +213,11 @@
 **Thoughts:** With coverage I can watch which functions are tested and which one not, and I implemented testing in all filters and some functions.
 
 **Repository:** [Basic Web Scraping branch testing-jest](https://github.com/martin-stepwolf/basic-web-scraping/tree/refactor/testing-jest)
+
+### Day 28: February 22th, 2021
+
+**Today's Progress**: Implement testing in callbacks, promises and async/await functions with jest.
+
+**Thoughts:** Now I tested the result of the functions and how can I make it despite being asynchronous functions.
+
+**Repository:** [Jest practices](jest-practices/)

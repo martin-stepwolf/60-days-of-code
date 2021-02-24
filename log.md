@@ -229,3 +229,11 @@
 **Thoughts:** Useful tool to save a result and guarantee its immutability, all the results are stored in \_\_snapshots\_\_ directory.
 
 **Repository:** [Jest practices - Snapshots](jest-practices/__tests__/snapshots.test.js)
+
+### Day 30: February 24th, 2021
+
+**Today's Progress**: Implement basic testing in a react and vue projects with jest.
+
+**Thoughts:** Now I learned jest to test some functions, now I look there are some package to test components in framework as react and vue.
+
+**Repository:** [Jest practices - React - Vue](jest-practices/react)

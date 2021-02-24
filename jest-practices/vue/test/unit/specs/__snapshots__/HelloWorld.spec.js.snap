@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Añadiendo pruebas a Vue Creamos un snapshot en Vue 1`] = `
+<div
+  class="hello"
+>
+  <h1>
+    Hello Vue :)
+  </h1>
+   
+  <ul>
+    <li>
+      <a
+        href="#"
+        target="_blank"
+      >
+        
+        Esto es un Link :) 
+      
+      </a>
+    </li>
+  </ul>
+</div>
+`;
+
+exports[`HelloWorld.vue has the expected html structure 1`] = `
+<div
+  class="hello"
+>
+  <h1>
+    Hello Vue
+  </h1>
+   
+  <ul>
+    <li>
+      <a
+        href="#"
+        target="_blank"
+      >
+        
+        Esto es un Link :) 
+      
+      </a>
+    </li>
+  </ul>
+</div>
+`;

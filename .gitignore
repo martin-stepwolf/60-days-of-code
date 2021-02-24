@@ -8,6 +8,7 @@ files/soccer-matches.sql
 # JavaScript dependencies
 node_modules
 jest-practices/node_modules
+jest-practices/__tests__/__snapshots__
 
 # Files generated from /bash-shell/05-backups.sh
 bash-shell/backups

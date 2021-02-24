@@ -221,3 +221,11 @@
 **Thoughts:** Now I tested the result of the functions and how can I make it despite being asynchronous functions.
 
 **Repository:** [Jest practices](jest-practices/)
+
+### Day 29: February 23th, 2021
+
+**Today's Progress**: Implement snapshots as testing in jest.
+
+**Thoughts:** Useful tool to save a result and guarantee its immutability, all the results are stored in \_\_snapshots\_\_ directory.
+
+**Repository:** [Jest practices - Snapshots](jest-practices/__tests__/snapshots.test.js)

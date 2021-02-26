@@ -245,3 +245,11 @@
 **Thoughts:** Now I learned a basic testing to a server in express, how I can test http status like 200 .
 
 **Repository:** [Jest practices - Express](jest-practices/express)
+
+### Day 32: February 26th, 2021
+
+**Today's Progress**: Start a environment to practice Typescript and create a practice about variables.
+
+**Thoughts:** Now I learned testing with Jest I decided to learn TypeScript, so popular and useful language programming that could improve my projects.
+
+**Repository:** [Typescript - Variables](typescript/src/variables.ts)

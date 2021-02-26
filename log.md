@@ -237,3 +237,11 @@
 **Thoughts:** Now I learned jest to test some functions, now I look there are some package to test components in framework as react and vue.
 
 **Repository:** [Jest practices - React - Vue](jest-practices/react)
+
+### Day 31: February 25th, 2021
+
+**Today's Progress**: Implement basic testing in a project with express with jest.
+
+**Thoughts:** Now I learned a basic testing to a server in express, how I can test http status like 200 .
+
+**Repository:** [Jest practices - Express](jest-practices/express)

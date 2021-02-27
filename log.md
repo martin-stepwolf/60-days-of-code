@@ -253,3 +253,11 @@
 **Thoughts:** Now I learned testing with Jest I decided to learn TypeScript, so popular and useful language programming that could improve my projects.
 
 **Repository:** [Typescript - Variables](typescript/src/variables.ts)
+
+### Day 33: February 27th, 2021
+
+**Today's Progress**: Some practices about any, never, null, undefined, object, never and void in TypeScript.
+
+**Thoughts:** Many types of data to improve our JavaScript code in many cases.
+
+**Repository:** [Typescript - Type Variables](typescript/src/)

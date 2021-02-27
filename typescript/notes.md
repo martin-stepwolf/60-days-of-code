@@ -29,11 +29,13 @@
 - Array.
 - Tuples.
 - Enum.
-- Any.
-- Void.
-- Null.
-- Undefined.
-- Never.
-- Object.
+- Any: the value can have any type.
+- Void: the value does not have a type, it is used in return from functions.
+- Null: the value is empty or null.
+- Undefined: the value has not been defined.
+- Never: used in functions that does not return nothing and exceptions.
+- object: not primitive value. This is not Object from JavaScript Object class.
+
+Any is used in functions that ended, Never for infinite functions or that throw an error.
 
 Typescript can infer the type with just the value.

@@ -261,3 +261,11 @@
 **Thoughts:** Many types of data to improve our JavaScript code in many cases.
 
 **Repository:** [Typescript - Type Variables](typescript/src/)
+
+### Day 34: February 28th, 2021
+
+**Today's Progress**: Some practices about functions, array, tuples, assert, enum, and union in TypeScript.
+
+**Thoughts:** More tools that allow to have more validations, better logic code and flexibility that with only JavaScript can be impossible.
+
+**Repository:** [Typescript - Type Variables 2](typescript/src/)

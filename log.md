@@ -269,3 +269,11 @@
 **Thoughts:** More tools that allow to have more validations, better logic code and flexibility that with only JavaScript can be impossible.
 
 **Repository:** [Typescript - Type Variables 2](typescript/src/)
+
+### Day 35: March 1st, 2021
+
+**Today's Progress**: Some practices about Oriented Object Programming in TypeScript.
+
+**Thoughts:** Classes, inheritance, getters, setters, interfaces, encapsulation and everything that could be done in OOP with TypeScript.
+
+**Repository:** [Typescript - OOP](typescript/src/photo-app)

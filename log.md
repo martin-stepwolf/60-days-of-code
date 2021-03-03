@@ -277,3 +277,11 @@
 **Thoughts:** Classes, inheritance, getters, setters, interfaces, encapsulation and everything that could be done in OOP with TypeScript.
 
 **Repository:** [Typescript - OOP](typescript/src/photo-app)
+
+### Day 36: March 2nd, 2021
+
+**Today's Progress**: Implement the main settings to the project basic web scraping to implement TypeScript.
+
+**Thoughts:** Now with all the knowledge I got about TypeScript I am going to improve the same project I implemented Jest. At the moment the compiled files pass the tests but there are many errors and details because I just change the extension js to ts.
+
+**Repository:** [Basic Web Scraping branch typescript](https://github.com/martin-stepwolf/basic-web-scraping/tree/refactor/typescript)

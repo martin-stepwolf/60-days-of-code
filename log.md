@@ -285,3 +285,11 @@
 **Thoughts:** Now with all the knowledge I got about TypeScript I am going to improve the same project I implemented Jest. At the moment the compiled files pass the tests but there are many errors and details because I just change the extension js to ts.
 
 **Repository:** [Basic Web Scraping branch typescript](https://github.com/martin-stepwolf/basic-web-scraping/tree/refactor/typescript)
+
+### Day 37: March 3th, 2021
+
+**Today's Progress**: Adapt Jest in typescript to the project basic web scraping.
+
+**Thoughts:** Main configuration implemented to test TypeScript files, all was ok but there were some errors because of not have the proper TypeScript code.
+
+**Repository:** [Basic Web Scraping branch typescript](https://github.com/martin-stepwolf/basic-web-scraping/tree/refactor/typescript)

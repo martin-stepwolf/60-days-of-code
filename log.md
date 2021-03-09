@@ -294,10 +294,18 @@
 
 **Repository:** [Basic Web Scraping branch typescript](https://github.com/martin-stepwolf/basic-web-scraping/tree/refactor/typescript)
 
-### Day 38: March 7th, 2021
+### Day 38: March 6th, 2021
 
 **Today's Progress**: Create a basic landing page to practice html, css and BEM.
 
 **Thoughts:** With the practice of [Google Clone](google-clone) and the knowledge about BEM (Block-Element-Modifier) I Create a landing page, the first time I use aside tag to implement some articles.
+
+**Repository:** [Basic landing page](landing-page)
+
+### Day 39: March 7th, 2021
+
+**Today's Progress**: Implement the position sticky in the landing page.
+
+**Thoughts:** This time I implemented this position to the aside and navbar of header and footer, this effect allow to fix the navbar while its parent is on the screen. I made some modification due to have bigger parents.
 
 **Repository:** [Basic landing page](landing-page)

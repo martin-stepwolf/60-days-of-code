@@ -293,3 +293,11 @@
 **Thoughts:** Main configuration implemented to test TypeScript files, all was ok but there were some errors because of not have the proper TypeScript code.
 
 **Repository:** [Basic Web Scraping branch typescript](https://github.com/martin-stepwolf/basic-web-scraping/tree/refactor/typescript)
+
+### Day 38: March 7th, 2021
+
+**Today's Progress**: Create a basic landing page to practice html, css and BEM.
+
+**Thoughts:** With the practice of [Google Clone](google-clone) and the knowledge about BEM (Block-Element-Modifier) I Create a landing page, the first time I use aside tag to implement some articles.
+
+**Repository:** [Basic landing page](landing-page)

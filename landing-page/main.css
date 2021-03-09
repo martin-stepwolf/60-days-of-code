@@ -1,0 +1,168 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+  outline: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+body {
+  background: #f2f2f2;
+}
+
+/* * ============================== */
+/* * ============ HEADER ========== */
+/* * ============================== */
+
+.header {
+  background: #41ec9c;
+}
+
+.header a {
+  color: #fff;
+  display: inline-block;
+  padding: 20px;
+  width: 100%;
+  text-align: center;
+  color: #000;
+  transition: 0.3s ease-out all;
+}
+
+.header a:hover {
+  background: #2a9664;
+  color: #fff;
+  text-decoration: none;
+}
+
+.header .header__nav {
+  max-width: 1000px;
+  width: 90%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+/* * ============================== */
+/* * ============ MAIN ============ */
+/* * ============================== */
+
+.main {
+	min-height: 100vh;
+  }
+
+.main__blog {
+  max-width: 1000px;
+  width: 90%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.main__image {
+  height: 100vh;
+}
+
+.main__image img {
+  width: 100%;
+  height: 100%;
+  vertical-align: top;
+  object-fit: cover;
+  object-position: 0 bottom;
+}
+
+.main__blog--articles p {
+  margin-bottom: 20px;
+  line-height: 30px;
+  color: #525151;
+}
+
+.article--aside .aside__title {
+  font-weight: normal;
+  padding-top: 40px;
+}
+
+.article--aside .aside__nav {
+  font-size: 14px;
+  color: #b5b5b5;
+}
+
+.main__blog--aside {
+  min-width: 30%;
+  margin: 40px 20px 20px 0;
+  height: 100%;
+  background: #1d2f3d;
+  padding: 20px;
+  border-radius: 3px;
+}
+
+.main__blog--aside .aside__title {
+  font-family: "Montserrat", sans-serif;
+  font-weight: normal;
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: #f2f2f2;
+}
+
+.main__blog--aside .aside__nav a {
+  display: block;
+  margin-bottom: 10px;
+  color: #41ec9c;
+}
+
+/* * ============================== */
+/* * ========== FOOTER ============ */
+/* * ============================== */
+
+.footer {
+  background: #41ec9c;
+}
+
+.footer a {
+  color: #fff;
+  display: inline-block;
+  padding: 20px;
+  width: 100%;
+  text-align: center;
+  color: #000;
+  transition: 0.3s ease-out all;
+}
+
+.footer a:hover {
+  background: #1d2f3d;
+  color: #fff;
+  text-decoration: none;
+}
+
+.footer .footer__nav {
+  max-width: 1000px;
+  width: 90%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+/* * ============================== */
+/* * ====== MEDIA QUERIES ========= */
+/* * ============================== */
+
+@media screen and (max-width: 900px) {
+  .header__nav {
+    flex-wrap: wrap;
+    margin: 0;
+    width: 100%;
+	flex-direction: column;
+	width: auto;
+	flex: 1;
+  }
+
+  .main__image {
+    height: 50vh;
+  }
+}

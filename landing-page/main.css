@@ -13,6 +13,10 @@ a {
   outline: none;
 }
 
+p {
+  font-size: 1rem;
+}
+
 a:hover {
   text-decoration: underline;
 }
@@ -26,6 +30,10 @@ body {
 /* * ============================== */
 
 .header .header__nav {
+  width: 100%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
   background: #41ec9c;
   position: sticky;
   top: 0;
@@ -34,7 +42,7 @@ body {
 .header .header__nav a {
   color: #fff;
   display: inline-block;
-  padding: 20px;
+  padding: 1.5rem;
   width: 100%;
   text-align: center;
   color: #000;
@@ -45,13 +53,6 @@ body {
   background: #2a9664;
   color: #fff;
   text-decoration: none;
-}
-
-.header .header__nav {
-  width: 100%;
-  margin: auto;
-  display: flex;
-  justify-content: space-between;
 }
 
 .header__image {
@@ -78,27 +79,22 @@ body {
 }
 
 .main__articles p {
-  margin-bottom: 20px;
-  line-height: 30px;
+  margin-bottom: 1.5rem;
+  line-height: 2rem;
   color: #525151;
 }
 
-.article__aside--title {
+.article__title {
   font-weight: normal;
-  padding-top: 40px;
-}
-
-.article__aside--nav {
-  font-size: 14px;
-  color: #b5b5b5;
+  padding-top: 2rem;
 }
 
 .main__aside {
   min-width: 30%;
-  margin: 40px 20px 20px 0;
+  margin: 3rem 1.5rem 1.5rem 0;
   height: 100%;
   background: #1d2f3d;
-  padding: 20px;
+  padding: 1.5rem;
   border-radius: 3px;
   position: sticky;
   top: 1rem;
@@ -106,14 +102,18 @@ body {
 
 .main__aside--title {
   font-weight: normal;
-  font-size: 24px;
-  margin-bottom: 20px;
+  margin-bottom: 1.5rem;
   color: #f2f2f2;
+}
+
+.article__aside--nav {
+  font-size: 2rem;
+  color: #b5b5b5;
 }
 
 .aside__aside--nav a {
   display: block;
-  margin-bottom: 10px;
+  margin-bottom: 1rem;
   color: #41ec9c;
 }
 
@@ -137,23 +137,7 @@ body {
   object-position: 0 bottom;
 }
 
-.footer .footer__nav a {
-  color: #fff;
-  display: inline-block;
-  padding: 20px;
-  width: 100%;
-  text-align: center;
-  color: #000;
-  transition: 0.3s ease-out all;
-}
-
-.footer .footer__nav a:hover {
-  background: #1d2f3d;
-  color: #fff;
-  text-decoration: none;
-}
-
-.footer .footer__nav {
+.footer__nav {
   background: #41ec9c;
   width: 100%;
   margin: auto;
@@ -161,6 +145,22 @@ body {
   justify-content: space-between;
   position: sticky;
   bottom: 0;
+}
+
+.footer__nav a {
+  color: #fff;
+  display: inline-block;
+  padding: 1.5rem;
+  width: 100%;
+  text-align: center;
+  color: #000;
+  transition: 0.3s ease-out all;
+}
+
+.footer__nav a:hover {
+  background: #1d2f3d;
+  color: #fff;
+  text-decoration: none;
 }
 
 /* * ============================== */

@@ -312,8 +312,16 @@
 
 ### Day 40: March 7th, 2021
 
-**Today's Progress**: Clean the code and implement scroll-behavior.
+**Today's Progress**: Clean the code of the landing page and implement scroll-behavior.
 
 **Thoughts:** A basic property to have a better emotion in link in the same page.
 
 **Repository:** [Basic landing page scroll-behavior](landing-page)
+
+### Day 41: March 8th, 2021
+
+**Today's Progress**: Refactor the code of the landing page.
+
+**Thoughts:** With a solid knowledge about how each css class works I could refactor all the project with better HTML semantic and BEM notation.
+
+**Repository:** [Basic landing page refactor](landing-page)

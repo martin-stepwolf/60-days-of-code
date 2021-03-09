@@ -294,7 +294,7 @@
 
 **Repository:** [Basic Web Scraping branch typescript](https://github.com/martin-stepwolf/basic-web-scraping/tree/refactor/typescript)
 
-### Day 38: March 6th, 2021
+### Day 38: March 5th, 2021
 
 **Today's Progress**: Create a basic landing page to practice html, css and BEM.
 
@@ -302,10 +302,18 @@
 
 **Repository:** [Basic landing page](landing-page)
 
-### Day 39: March 7th, 2021
+### Day 39: March 6th, 2021
 
 **Today's Progress**: Implement the position sticky in the landing page.
 
 **Thoughts:** This time I implemented this position to the aside and navbar of header and footer, this effect allow to fix the navbar while its parent is on the screen. I made some modification due to have bigger parents.
 
-**Repository:** [Basic landing page](landing-page)
+**Repository:** [Basic landing page position sticky](landing-page)
+
+### Day 40: March 7th, 2021
+
+**Today's Progress**: Clean the code and implement scroll-behavior.
+
+**Thoughts:** A basic property to have a better emotion in link in the same page.
+
+**Repository:** [Basic landing page scroll-behavior](landing-page)

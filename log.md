@@ -325,3 +325,11 @@
 **Thoughts:** With a solid knowledge about how each css class works I could refactor all the project with better HTML semantic and BEM notation.
 
 **Repository:** [Basic landing page refactor](landing-page)
+
+### Day 42: March 31th, 2021
+
+**Today's Progress**: Add Tailwindcss and some styles to the basic web scraping.
+
+**Thoughts:** A basic school project made with bad practices by students now it has so much scalability, I have removed JQuery, now I removed Bootstrap to use Tailwindcss instead.
+
+**Repository:** [Basic Web Scraping branch design-Tailwindcss](https://github.com/martin-stepwolf/basic-web-scraping/tree/refactor/design-tailwindcss)

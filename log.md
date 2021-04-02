@@ -333,3 +333,12 @@
 **Thoughts:** A basic school project made with bad practices by students now it has so much scalability, I have removed JQuery, now I removed Bootstrap to use Tailwindcss instead.
 
 **Repository:** [Basic Web Scraping branch design-Tailwindcss](https://github.com/martin-stepwolf/basic-web-scraping/tree/refactor/design-tailwindcss)
+
+### Day 43: April 1st, 2021
+
+**Today's Progress**: Finish the design with Tailwindcss to the basic web scraping.
+
+**Thoughts:** I implemented responsive design and fixed some details.
+
+**Repository:** [Basic Web Scraping branch design-Tailwindcss](https://github.com/martin-stepwolf/basic-web-scraping/tree/refactor/design-tailwindcss)
+
